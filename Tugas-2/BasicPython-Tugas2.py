@@ -12,7 +12,7 @@ while i:
     print ('3. Keluar')
     print ()
     ans = input('Masukkan kode input = ')
-
+    
     if ans == '2':
         print ('-----------------------------')
         print ('Masukkan data kontak:')
